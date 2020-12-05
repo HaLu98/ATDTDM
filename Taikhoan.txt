@@ -1,0 +1,9 @@
+Vertableo Account:
+username: Testkma198@gmail.com
+password: Abc@1234
+--------------------------------
+MySQL Account:
+username: root
+password: Haoluan@123
+--------------------------------
+Github Link: https://github.com/HaLu98/ATDTDM
